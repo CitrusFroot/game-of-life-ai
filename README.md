@@ -7,7 +7,7 @@ The game consists of a simulation of 'cells', where each cell in the nxn grid fo
 -   Any live cell with two or three live neighbours lives
 -   Any live cell with more than three live neighbours dies
 -   Any dead cell with exactly three live neighbours becomes a live cell
-    *note that dead refers to simply an empty cell
+*note that dead refers to simply an empty cell
 
 In this project, I will make 3 iterations of this game. The first will be the rules above. The second
 will include the following rules:
